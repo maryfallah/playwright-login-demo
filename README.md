@@ -16,4 +16,4 @@ Small Playwright + TypeScript project to practice browser automation.
 
 ## Test Report
 
-![Playwright Report](./screenshots/playwright-report.png)
+![Playwright Report](./screenshots/playwright-report.jpg)
